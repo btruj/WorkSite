@@ -7,7 +7,7 @@ import { AiFillGithub, AiFillChrome } from "react-icons/ai"
 
 const Portfolio = () => {
   return (
-    <div className='pt-16 pb-10 sm:pt-16 sm:pb-16 lg:pb-16 h-[92vh]'>
+    <div className='pt-16 pb-10 sm:pt-16 sm:pb-16 lg:pb-16 md:h-[92vh] h-[92vh]'>
       <div className='px-7 mx-auto grid sm:grid-cols-2 gap-6'>
 
         <div className='mb-4 flex flex-col sm:grid sm:grid-cols-8 rounded-lg bg-black/40 overflow-hidden shadow-xl z-1 sm:pr-5'>
